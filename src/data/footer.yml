@@ -1,5 +1,5 @@
-copyright: '&copy; Phantom. All rights reserved.'
+copyright: '&copy;BlackBoxMediaDesign 2020. All rights reserved.'
 links:
-  - text: Made with Stackbit
+  - new_window: true
+    text: Made with Stackbit
     url: 'https://www.stackbit.com'
-    new_window: true
