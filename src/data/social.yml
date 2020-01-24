@@ -1,27 +1,24 @@
 enabled: true
-title: Follow
+title: Follow us
 follow_section:
-  - title: Twitter
-    icon: fa-twitter
+  - icon: fa-twitter
     link_url: '#'
-  - title: Facebook
-    icon: fa-facebook
+    title: Twitter
+  - icon: fa-facebook
     link_url: '#'
-  - title: Instagram
-    icon: fa-instagram
+    title: Facebook
+  - icon: fa-instagram
     link_url: '#'
-  - title: Dribbble
-    icon: fa-dribbble
+    title: Instagram
+  - icon: fa-github
     link_url: '#'
-  - title: GitHub
-    icon: fa-github
+    title: GitHub
+  - icon: fa-500px
     link_url: '#'
-  - title: 500px
-    icon: fa-500px
+    title: 500px
+  - icon: fa-phone
     link_url: '#'
-  - title: Phone
-    icon: fa-phone
+    title: Phone
+  - icon: fa-envelope-o
     link_url: '#'
-  - title: Email
-    icon: fa-envelope-o
-    link_url: '#'
+    title: Email
