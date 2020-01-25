@@ -5,7 +5,7 @@ menus:
   main:
     identifier: emarketing
     title: eMarketing
-    weight: 6
+    weight: 5
 template: page
 ---
 
