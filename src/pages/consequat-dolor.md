@@ -1,5 +1,5 @@
 ---
-title: Organize strategically - concepts
+title: Organize strategically - Concepts
 img_src: /images/Vision-Mission-Values-Strategies-Pyramid.png
 menus:
   main:
