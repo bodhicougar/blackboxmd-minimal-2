@@ -4,7 +4,7 @@ img_src: /images/internet-static_web_page.jpg
 menus:
   main:
     identifier: phase_one
-    title: Phase one - static
+    title: Phase one - static prototype
     weight: 2
 template: page
 ---
