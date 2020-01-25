@@ -7,7 +7,7 @@ menus:
   main:
     identifier: home_start
     title: Home
-    weight: 1
+    weight: 0
 template: home
 ---
 ## What is a Cloud Architect?
