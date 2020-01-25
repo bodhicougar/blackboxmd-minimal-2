@@ -25,6 +25,16 @@ Static websites don’t have a database or require much server side thinking or 
 \
 As loading speed and security have become more important, static pages have started to re-gain some popularity – particularly with smaller sites that don’t change very often.
 
+## WHAT IS A DYNAMIC SITE?
+
+Dynamic websites are capable of serving different content to web visitors, even if the web page visitors are requesting the same exact page or viewing the same URL. Most dynamic websites require a database. When visitors request a dynamic web page, code on the web server works to kind of assemble the components of a web page before delivering them to the user. Server side code determines what components or pieces are needed to assemble a complete web page before it is delivered to the user. This can involve a huge variety of variables and logic depending on a websites architecture and purpose.
+
+As an example, web visitors that visit the same URL might see different content in a dynamic site if they are one different devices, different countries, different times of day or even different networks. A web page generated from a dynamic website might have server side code that assembles content from different areas of a database, outside sources, page templates and other elements that are all in different areas of the server. In some dynamic sites, you might even see different elements or contents just by reloading the same web page twice.
+
+![Dynamic websites](/images/Dynamic websites.png "What is involved in a dynamic website")
+
+Most dynamic sites use a Content Management System (CMS) that allows internal users to make updates or publish changes. Most CMS’s are accessible through a web based login that allows website owners or their staff to manage the site using a more easy to use visual interface. When updates or changes are saved they can be published immediately. Dynamic websites that use a CMS make it much easier to control larger websites.
+
 **ARE STATIC SITES BETTER THAN DYNAMIC SITES?**
 
 There’s not a right or wrong answer here and it’s kind of like asking if red crayons are better than green crayons. If you need to color fire, red is better. If you need to color plants, green is probably better. Static sites do seem to be re-gaining popularity lately but the large majority of websites on the Internet are dynamic. At the end of the day it really depends on what the website you are planning to build is for.
