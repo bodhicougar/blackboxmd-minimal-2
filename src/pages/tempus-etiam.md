@@ -1,10 +1,10 @@
 ---
-title: Second phase - Markdown
+title: 'Second phase - JAMstack, Markdown'
 img_src: /images/Netlify_gross.png
 menus:
   main:
     identifier: phase_two
-    title: Phase two
+    title: Phase two - JAMstack
     weight: 3
 template: page
 ---
