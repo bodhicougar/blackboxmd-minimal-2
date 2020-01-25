@@ -5,7 +5,7 @@ menus:
   main:
     identifier: phase_three
     title: Phase three
-    weight: 5
+    weight: 4
 template: page
 ---
 ### **Fast and secure sites and apps delivered by pre-rendering files and serving them directly from a CDN, removing the requirement to manage or run web servers.**
