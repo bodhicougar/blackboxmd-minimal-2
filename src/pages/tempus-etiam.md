@@ -1,10 +1,11 @@
 ---
-title: Tempus Etiam
-img_src: images/pic13.jpg
+title: Second phase of internet presence
+img_src: /images/jam-stack-works.png
 menus:
   main:
-    title: Tempus etiam
-    weight: 3
+    identifier: phase_two
+    title: Phase two
+    weight: 4
 template: page
 ---
 
