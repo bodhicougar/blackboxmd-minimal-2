@@ -1,13 +1,16 @@
 ---
 title: Home
-header: |-
-  Erat ut Sapien, mus curae, morbi dictum duis
-  aenean auctor at Dictum.
+header: >-
+  Cloud Solution Architect for the Social Media Era: organizing entities
+  strategically.
 menus:
   main:
     title: Home
     weight: 1
 template: home
 ---
+## What is a Cloud Architect?
 
-Etiam quis viverra lorem, in semper lorem. Sed nisl arcu euismod sit amet nisi euismod sed cursus arcu elementum ipsum arcu vivamus quis venenatis orci lorem ipsum et magna feugiat veroeros aliquam. Lorem ipsum dolor sit amet nullam dolore.
+Cloud computing architecture refers to the components and subcomponents required for cloud computing. These components typically consist of a front end platform, back end platforms, a cloud-based delivery, and a network. Combined, these components make up cloud computing architecture. Cloud solutions design is based on architectural procedures and methods that have been developed over the last 20 or so years.
+
+A Cloud Architect is responsible for converting the technical requirements of a project into the architecture and design that will guide the final product. Often, Cloud Architects are also responsible for bridging the gaps between complex business problems and solutions in the cloud. Other members of a technology team, including DevOps engineers and developers, work with the Cloud Architect to ensure that the right technology or technologies are being built.
