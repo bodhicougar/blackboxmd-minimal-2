@@ -1,15 +1,26 @@
 ---
-title: Ipsum Veroeros
-img_src: images/pic13.jpg
+title: First phase of a digital business card
+img_src: /images/internet-static_web_page.jpg
 menus:
   main:
-    title: Ipsum veroeros
+    identifier: phase_one
+    title: Phase one
     weight: 2
 template: page
 ---
+**Static websites - phase one sites**
 
-Donec eget ex magna. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fergiat. Pellentesque in mi eu massa lacinia malesuada et a elit. Donec urna ex, lacinia in purus ac, pretium pulvinar mauris. Curabitur sapien risus, commodo eget turpis at, elementum convallis elit. Pellentesque enim turpis, hendrerit tristique.
+Static websites serve the same content to every visitor from a fixed file that is coded in HTML. In the early days of the Internet this is how the first web pages were built. For each individual page of a static website, there is a unique HTML file on a web server with all the content and styles etc, for that complete page. When a website visitor types in a URL or visits a static page on a website, the page that loads will be the exact same for all users.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis dapibus rutrum facilisis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Etiam tristique libero eu nibh porttitor fermentum. Nullam venenatis erat id vehicula viverra. Nunc ultrices eros ut ultricies condimentum. Mauris risus lacus, blandit sit amet venenatis non, bibendum vitae dolor. Nunc lorem mauris, fringilla in aliquam at, euismod in lectus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. In non lorem sit amet elit placerat maximus. Pellentesque aliquam maximus risus, vel venenatis mauris vehicula hendrerit.
+![Static versus Blog](/images/blogvsstaticsite.jpg "Static Website - Blog")
 
-Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fersapien risus, commodo eget turpis at, elementum convallis elit. Pellentesque enim turpis, hendrerit tristique lorem ipsum dolor.
+Static websites typically a more straightforward collection of files (or a collection of files and folders in a directory structure) that are managed by a web master or programmer that is familiar with HTML or some code. When updates need to be made or new pages added, it needs to be done manually by someone who is familiar with code and can code in HTML.
+
+For example, a simple static website with a Home Page and a Contact page will contain two HTML files called something like ‘index.html’ and ‘contact.html’ (for almost all web servers the home page file is named index.html by default). These files would display the same information in a web browser to any user that requests them.
+
+Static websites don’t have a database or require much server side thinking or processing before they deliver or generate a page to the user. They are typically more simple and efficient ways to create and server simple web pages. This site had a good click through illustration on dynamic and static websites (although the words run together in later slides)
+
+![Difference](/images/Bildschirmfoto vom 2020-01-25 23-29-13.png "Difference Static - Dynamic")
+
+\
+As loading speed and security have become more important, static pages have started to re-gain some popularity – particularly with smaller sites that don’t change very often.
