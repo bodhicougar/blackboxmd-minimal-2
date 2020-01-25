@@ -1,10 +1,10 @@
 ---
-title: Third phase - content infrastructure
+title: Third phase - Content Infrastructure
 img_src: /images/jam-stack-works.png
 menus:
   main:
     identifier: phase_three
-    title: Phase three
+    title: Phase three - Contentful
     weight: 4
 template: page
 ---
