@@ -8,7 +8,7 @@ menus:
     weight: 3
 template: page
 ---
-### **Fast and secure sites and apps delivered by pre-rendering files and serving them directly from a CDN, removing the requirement to manage or run web servers.**
+Fast and secure sites and apps delivered by pre-rendering files and serving them directly from a CDN, removing the requirement to manage or run web servers.
 
 ![Jamstack it is!](/images/jamstack-full-logo.svg "The Jamstack")
 
@@ -22,10 +22,8 @@ Pre-rendered sites can be enhanced with JavaScript and the growing capabilities 
 Any project that relies on a tight coupling between client and server is not built with the Jamstack. This would include:
 
 > * ### A site built with a server-side CMS like WordPress, Drupal, Joomla, or Squarespace.
->
->  * ### A monolithic server-run web app that relies on Ruby, Node, or another backend language.
->
-> *  ### A single page app that uses isomorphic rendering to build views on the server at runtime.
+> * ### A monolithic server-run web app that relies on Ruby, Node, or another backend language.
+> * ### A single page app that uses isomorphic rendering to build views on the server at runtime.
 
 ![](/images/netlify workflow.png)
 
