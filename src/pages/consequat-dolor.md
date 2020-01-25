@@ -5,7 +5,7 @@ menus:
   main:
     identifier: strategy
     title: Strategy & organization
-    weight: 2
+    weight: 1
 template: page
 ---
 **Vision**
