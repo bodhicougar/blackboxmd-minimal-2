@@ -14,21 +14,16 @@ A company vision seeks to outline where the company is headed and what values ar
 
 ![Workflow of strategy](/images/Strategy.png "Desired future")
 
-Many organizations choose to specifically outline or list their core values as part of their vision statement. When taking this route, remember the list should be short—typically no more than about 5 items. These values should not be dependent on current profits, current trends, or current economic circumstances. They’re more constant than that and represent the deep-seated core values that remain at the heart of the organization.
-
-Because it tells the organizational purpose and values, the vision statement often influences the company culture and expectations, thereby giving direction for employees. It should be very short and easy to communicate.
-
-![Pyramid of strategy](/images/Vision&Mission_2.jpg "Pyramid of Strategy")
+Many organizations choose to specifically outline or list their core values as part of their vision statement. When taking this route, remember the list should be short—typically no more than about 5 items. These values should not be dependent on current profits, current trends, or current economic circumstances. They’re more constant than that and represent the deep-seated core values that remain at the heart of the organization.Because it tells the organizational purpose and values, the vision statement often influences the company culture and expectations, thereby giving direction for employees. It should be very short and easy to communicate.
 
 **Mission**
 
-Like the vision, the mission also tells everyone the organization’s purpose—what does the organization exist to do? What are the objectives? It goes beyond the vision, however, by making a clearer delineation of company goals and how the vision will be accomplished.
-
+Like the vision, the mission also tells everyone the organization’s purpose—what does the organization exist to do? What are the objectives? It goes beyond the vision, however, by making a clearer delineation of company goals and how the vision will be accomplished.\
 In other words, the mission statement is a way to express the vision in practical terms. It should be concrete and include goal-oriented language. It should include measurable objectives. Every person within the organization can evaluate whether his or her own activities will serve to help the company achieve its mission.
 
-A mission statement is usually disseminated internally. It is used by employees, stockholders, and by leaders throughout the organization. Like the mission, it should also be short. It could even be a single sentence in some cases.
+![Pyramid of strategy](/images/Vision&Mission_2.jpg "Pyramid of strategy")
 
-While the company vision is future-focused, the mission combines forward thinking with present goals. It may be modified over time, but it should always stay true to the company vision and values.
+A mission statement is usually disseminated internally. It is used by employees, stockholders, and by leaders throughout the organization. Like the mission, it should also be short. It could even be a single sentence in some cases. While the company vision is future-focused, the mission combines forward thinking with present goals. It may be modified over time, but it should always stay true to the company vision and values.
 
 ![](/images/Migration.png)
 
