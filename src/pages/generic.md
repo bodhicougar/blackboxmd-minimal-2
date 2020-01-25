@@ -1,10 +1,10 @@
 ---
-title: First phase of a digital business card
+title: First phase of a digital business card = web site
 img_src: /images/internet-static_web_page.jpg
 menus:
   main:
     identifier: phase_one
-    title: Phase one - static prototype
+    title: Phase one - Static Prototype
     weight: 2
 template: page
 ---
@@ -24,3 +24,54 @@ Static websites don’t have a database or require much server side thinking or 
 
 \
 As loading speed and security have become more important, static pages have started to re-gain some popularity – particularly with smaller sites that don’t change very often.
+
+**ARE STATIC SITES BETTER THAN DYNAMIC SITES?**
+
+There’s not a right or wrong answer here and it’s kind of like asking if red crayons are better than green crayons. If you need to color fire, red is better. If you need to color plants, green is probably better. Static sites do seem to be re-gaining popularity lately but the large majority of websites on the Internet are dynamic. At the end of the day it really depends on what the website you are planning to build is for.
+
+## DYNAMIC WEBSITE PROS & CONS
+
+***Pros***
+
+* Greater Interactivity with Users
+* Increased Functionality (Ecommerce, Login Portals etc.)
+* Easier to manage using a CMS, especially large sites
+* Less coding skills required
+
+***Cons***
+
+* Less secure and more vulnerable
+* More complex to setup depending on functionality
+* Slower load time
+* Generally more expensive to setup and maintain
+
+## STATIC WEBSITE PROS & CONS
+
+***Pros***
+
+* Faster load time and displays page quickly
+* More secure – less vulnerable to hacks without a database
+* Less expensive to host and maintain
+* Less complex to setup
+
+***Cons***
+
+* No CMS, developer required to make updates
+* Can’t display dynamic content to users
+* Less engaging then interactive sites
+
+## SHOULD YOU BUILD A STATIC OR DYNAMIC SITE?
+
+Here are some questions that help determine if you should build a dynamic or static website.
+
+**How large is the website (now and in the future)?**\
+A simpler website with a few pages might be a good candidate for a static website.\
+Websites with lots of pages or content that is continually being updated might be better as dynamic websites.\
+If your website is going to be continually updated or grow large over time, it might be easier to manage a dynamic website.
+
+**Who is managing the website?**\
+If the person that will be managing your website doesn’t know HTML or how to code, you might want to consider a dynamic site.\
+Most dynamic websites have web based Content Management Systems or Web based logins where administrators can login and manage changes without having to code. Static sites need to be updated manually and if you can’t make updates on your own, it might get expensive to pay developers for every update.
+
+**How often will the site be changed or update?**\
+Making updates to static sites will be more time consuming than dynamic sites. If there are a lot of updates or multiple people working on the website at the same time, a dynamic site is probably the best.
