@@ -1,10 +1,10 @@
 ---
-title: Organize strategically
+title: 'Organize strategically: concepts'
 img_src: /images/Vision-Mission-Values-Strategies-Pyramid.png
 menus:
   main:
     identifier: strategy
-    title: 'Strategy, organization, concepts'
+    title: Strategy & organization
     weight: 2
 template: page
 ---
