@@ -5,7 +5,7 @@ menus:
   main:
     identifier: phase_one
     title: Phase one
-    weight: 3
+    weight: 2
 template: page
 ---
 **Static websites - phase one sites**
