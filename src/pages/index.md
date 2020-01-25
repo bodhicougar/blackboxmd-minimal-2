@@ -5,6 +5,7 @@ header: >-
   strategically.
 menus:
   main:
+    identifier: home_start
     title: Home
     weight: 1
 template: home
