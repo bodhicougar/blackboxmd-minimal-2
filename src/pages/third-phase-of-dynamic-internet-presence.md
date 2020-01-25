@@ -1,5 +1,5 @@
 ---
-title: Third phase of dynamic internet presence
+title: Third phase - content infrastructure
 img_src: ''
 menus:
   main:
@@ -8,41 +8,22 @@ menus:
     weight: 4
 template: page
 ---
-### **Fast and secure sites and apps delivered by pre-rendering files and serving them directly from a CDN, removing the requirement to manage or run web servers.**
+**What is a dynamic site?**
 
-![Jamstack it is!](/images/jamstack-full-logo.svg "The Jamstack")
+Dynamic websites are capable of serving different content to web visitors, even if the web page visitors are requesting the same exact page or viewing the same URL. Most dynamic websites require a database. When visitors request a dynamic web page, code on the web server works to kind of assemble the components of a web page before delivering them to the user. Server side code determines what components or pieces are needed to assemble a complete web page before it is delivered to the user. This can involve a huge variety of variables and logic depending on a websites architecture and purpose.
 
-When we talk about “The Stack,” we no longer talk about operating systems, specific web servers, backend programming languages, or databases. \
-The Jamstack is not about specific technologies. It’s a new way of building websites and apps that delivers better performance, higher security, lower cost of scaling, and a better developer experience.\
-\
-Pre-rendered sites can be enhanced with JavaScript and the growing capabilities of browsers and services available via APIs.
+![Gatsby, Contentful and Netlify](/images/Contentful Gatsby Netlify.jpeg "A dynamic trio")
 
-# When is your site *not* built with the Jamstack?
+As an example, web visitors that visit the same URL might see different content in a dynamic site if they are one different devices, different countries, different times of day or even different networks. A web page generated from a dynamic website might have server side code that assembles content from different areas of a database, outside sources, page templates and other elements that are all in different areas of the server. In some dynamic sites, you might even see different elements or contents just by reloading the same web page twice.
 
-Any project that relies on a tight coupling between client and server is not built with the Jamstack. This would include:
+![Contentful](/images/Contentful_gross.jpeg "Static site generators + content infrastructure")
 
-> * ### A site built with a server-side CMS like WordPress, Drupal, Joomla, or Squarespace.
->
->  * ### A monolithic server-run web app that relies on Ruby, Node, or another backend language.
->
-> *  ### A single page app that uses isomorphic rendering to build views on the server at runtime.
+* Built from the ground up for modern content distribution Robust, reliable access; no matter the place, platform, or device;
 
-![](/images/netlify workflow.png)
+* Works great with your development stack and platforms like Netlify
 
-# Why the Jamstack?
+* Build your site around your content needs, not the other way round
 
-### Better Performance
+* Scales dynamically with your organization’s growth
 
-Why wait for pages to build on the fly when you can generate them at deploy time? When it comes to minimizing the time to first byte, nothing beats pre-built files served over a CDN.
-
-### Higher Security
-
-With server-side processes abstracted into microservice APIs, surface areas for attacks are reduced. You can also leverage the domain expertise of specialist third-party services.
-
-### Cheaper, Easier Scaling
-
-When your deployment amounts to a stack of files that can be served anywhere, scaling is a matter of serving those files in more places. CDNs are perfect for this, and often include scaling in all of their plans.
-
-### Better Developer Experience
-
-Loose coupling and separation of controls allow for more targeted development and debugging, and the expanding selection of CMS options for site generators remove the need to maintain a separate stack for content and marketing.
+* Reduce headaches by leaving under-the-hood maintenance to the experts.
