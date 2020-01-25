@@ -1,6 +1,6 @@
 ---
-title: Second phase of internet presence
-img_src: /images/jam-stack-works.png
+title: Second phase - Markdown
+img_src: /images/Netlify_gross.png
 menus:
   main:
     identifier: phase_two
