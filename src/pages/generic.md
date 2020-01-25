@@ -70,6 +70,8 @@ There’s not a right or wrong answer here and it’s kind of like asking if red
 * Can’t display dynamic content to users
 * Less engaging then interactive sites
 
+![Content Management System](/images/dynamicweb.png "CMS makes sense")
+
 ## SHOULD YOU BUILD A STATIC OR DYNAMIC SITE?
 
 Here are some questions that help determine if you should build a dynamic or static website.
