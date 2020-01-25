@@ -1,6 +1,6 @@
 ---
 title: Third phase - content infrastructure
-img_src: ''
+img_src: /images/jam-stack-works.png
 menus:
   main:
     identifier: phase_three
