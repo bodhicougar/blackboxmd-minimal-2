@@ -1,24 +1,27 @@
 enabled: true
 title: Follow us
 follow_section:
+  - icon: fa-linkedin
+    link_url: 'https://www.linkedin.com/in/blackboxmd/?locale=en_US'
+    title: Linkedin
+  - icon: fa-github
+    link_url: 'https://github.com/bodhicougar'
+    title: GitHub
   - icon: fa-twitter
-    link_url: '#'
+    link_url: 'https://twitter.com/BBMediaDesign'
     title: Twitter
   - icon: fa-facebook
-    link_url: '#'
+    link_url: 'https://www.facebook.com/bbmediadesign/'
     title: Facebook
   - icon: fa-instagram
-    link_url: '#'
+    link_url: 'https://www.instagram.com/blackboxmediadesign/'
     title: Instagram
-  - icon: fa-github
-    link_url: '#'
-    title: GitHub
-  - icon: fa-500px
-    link_url: '#'
-    title: 500px
+  - icon: fa-youtube
+    link_url: 'https://www.youtube.com/watch?v=oJwrR37h-Lk'
+    title: Youtube
   - icon: fa-phone
-    link_url: '#'
+    link_url: 'tel:+3728840380'
     title: Phone
   - icon: fa-envelope-o
-    link_url: '#'
-    title: Email
+    link_url: 'mailto:info@blackboxmd.fyi'
+    title: E-mail
