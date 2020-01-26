@@ -7,7 +7,7 @@ date: '2017-04-08'
 img_src: images/pic13.jpg
 menus:
   main:
-    identifier: elements
+    identifier: gcp
     title: GCP Architecture
     weight: 1
 template: page
