@@ -5,6 +5,11 @@ home_img: images/pic05.jpg
 excerpt: Sed nisl arcu euismod sit amet nisi lorem etiam dolor veroeros et feugiat.
 date: '2017-04-08'
 img_src: images/pic13.jpg
+menus:
+  main:
+    identifier: elements
+    title: GCP Architecture
+    weight: 1
 template: page
 ---
 
