@@ -1,5 +1,5 @@
 ---
-title: Aliquam
+title: Google Cloud Platform Architecture
 home_style: style5
 home_img: images/pic05.jpg
 excerpt: Sed nisl arcu euismod sit amet nisi lorem etiam dolor veroeros et feugiat.
