@@ -1,5 +1,5 @@
 ---
-title: Dolor
+title: Getting organized in the cloud
 home_style: style3
 home_img: images/pic08.jpg
 excerpt: Sed nisl arcu euismod sit amet nisi lorem etiam dolor veroeros et feugiat.
