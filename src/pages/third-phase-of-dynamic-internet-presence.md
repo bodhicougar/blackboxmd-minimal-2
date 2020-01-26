@@ -8,9 +8,7 @@ menus:
     weight: 4
 template: page
 ---
-
-
-![Gatsby, Contentful and Netlify](/images/Contentful Gatsby Netlify.jpeg "A dynamic trio")
+![Gatsby, Contentful and Netlify]( "A dynamic trio")
 
 As an example, web visitors that visit the same URL might see different content in a dynamic site if they are one different devices, different countries, different times of day or even different networks. A web page generated from a dynamic website might have server side code that assembles content from different areas of a database, outside sources, page templates and other elements that are all in different areas of the server. In some dynamic sites, you might even see different elements or contents just by reloading the same web page twice.
 
