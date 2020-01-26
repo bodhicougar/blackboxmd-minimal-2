@@ -1,6 +1,6 @@
 ---
 title: Google Cloud Platform Architecture
-home_style: style5
+home_style: style4
 home_img: images/pic05.jpg
 excerpt: Sed nisl arcu euismod sit amet nisi lorem etiam dolor veroeros et feugiat.
 date: '2017-04-08'
