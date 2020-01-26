@@ -1,10 +1,10 @@
 ---
-title: BlackBoxMediaDesign - Blog entries
+title: BlackBoxMediaDesign - Markdown
 menus:
   main:
     identifier: elements
-    title: Blog entries
-    weight: 6
+    title: Elements
+    weight: 7
 template: elements
 ---
 
