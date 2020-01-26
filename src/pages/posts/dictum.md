@@ -1,5 +1,5 @@
 ---
-title: Dictum
+title: Blockchain
 home_style: style6
 home_img: images/pic11.jpg
 excerpt: Sed nisl arcu euismod sit amet nisi lorem etiam dolor veroeros et feugiat.
