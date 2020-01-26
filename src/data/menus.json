@@ -1,1 +1,10 @@
-{}
+{
+  "main": [
+    {
+      "identifier": "blogentries",
+      "title": "GCP Architecture",
+      "url": "#gcp",
+      "weight": 7
+    }
+  ]
+}
