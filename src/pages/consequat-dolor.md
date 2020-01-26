@@ -8,6 +8,22 @@ menus:
     weight: 1
 template: page
 ---
+**How we do it**
+
+* Completing our prospective client questionnaire: asking the right questions before a project
+* Completing design checklist: for creating effective websites
+* 10 step SEO checklist: for creating effictive websites which will be found, also
+* Coordination client - service providers: setting up team & project cloud
+* Review project details in depth together; steps
+* Architecture of design: patterns, grids, forms, infoflow, workflow
+* UI / UX: - visual design
+* MVP
+* Site acceptance test
+
+
+
+### Soft facts: Need to know basis.
+
 **Vision**
 
 A company vision seeks to outline where the company is headed and what values are guiding that journey. It tells us the company’s purpose by focusing on the future and what the organization exists to achieve. The vision statement should not need revising often; it is the foundation of the company and is based on the company’s core beliefs. These core beliefs or values are those that remain constant—regardless of business climate, profit level, or sales cycle.
