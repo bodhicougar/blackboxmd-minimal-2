@@ -1,5 +1,5 @@
 ---
-title: Lorem
+title: SEO
 home_style: style2
 home_img: images/pic02.jpg
 excerpt: Sed nisl arcu euismod sit amet nisi lorem etiam dolor veroeros et feugiat.
