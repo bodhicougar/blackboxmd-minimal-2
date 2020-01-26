@@ -1,10 +1,10 @@
 ---
-title: Elements
+title: BlackBoxMediaDesign - Blog entries
 menus:
   main:
     identifier: elements
-    title: Elements
-    weight: 5
+    title: Blog entries
+    weight: 6
 template: elements
 ---
 
