@@ -8,7 +8,7 @@ img_src: images/pic13.jpg
 menus:
   main:
     identifier: ''
-    title: GCP Architecture
+    title: ''
     weight: ''
 template: page
 ---
