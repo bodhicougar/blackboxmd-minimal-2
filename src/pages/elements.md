@@ -1,5 +1,5 @@
 ---
-title: BlackBoxMediaDesign - Markdown
+title: Markdown
 menus:
   main:
     identifier: elements
