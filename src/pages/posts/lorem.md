@@ -1,7 +1,7 @@
 ---
 title: SEO
 home_style: style2
-home_img: images/pic02.jpg
+home_img: /images/pic09.jpg
 excerpt: Sed nisl arcu euismod sit amet nisi lorem etiam dolor veroeros et feugiat.
 date: '2017-04-11'
 img_src: images/pic13.jpg
