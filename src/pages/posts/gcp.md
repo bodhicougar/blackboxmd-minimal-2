@@ -1,5 +1,5 @@
 ---
-title: GCP
+title: Architecting the Cloud with GCP
 home_style: style3
 home_img: /images/pic04.jpg
 excerpt: >-
