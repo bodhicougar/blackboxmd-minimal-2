@@ -1,7 +1,7 @@
 ---
 title: Getting organized in the cloud
 home_style: style3
-home_img: images/pic08.jpg
+home_img: /images/pic10.jpg
 excerpt: Sed nisl arcu euismod sit amet nisi lorem etiam dolor veroeros et feugiat.
 date: '2017-04-05'
 img_src: images/pic13.jpg
