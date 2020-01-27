@@ -12,11 +12,11 @@ template: page
 
 * Completing our prospective client questionnaire: asking the right questions before a project
 * Completing design checklist: for creating effective websites
-* 10 step SEO checklist: for creating effictive websites which will be found, also
-* Coordination client - service providers: setting up team & project cloud
-* Review project details in depth together; steps
-* Architecture of design: patterns, grids, forms, infoflow, workflow
-* UI / UX: - visual design
+* 10 step SEO checklist: for creating effective websites which will be found by Google, also
+* Coordination client - service providers: *setting up team & project cloud*
+* Review project details in depth together: procedure steps
+* Architecture of design: patterns, grids, forms, info flow, workflow
+* UI / UX: visual design
 * MVP
 * Site acceptance test
 
