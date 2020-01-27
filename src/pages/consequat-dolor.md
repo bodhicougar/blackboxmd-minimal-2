@@ -8,7 +8,7 @@ menus:
     weight: 1
 template: page
 ---
-**How we do it**
+### How we do it
 
 * Completing our prospective client questionnaire: asking the right questions before a project
 * Completing design checklist: for creating effective websites
@@ -20,11 +20,9 @@ template: page
 * MVP
 * Site acceptance test
 
-
-
 ### Soft facts: Need to know basis.
 
-**Vision**
+### Vision
 
 A company vision seeks to outline where the company is headed and what values are guiding that journey. It tells us the company’s purpose by focusing on the future and what the organization exists to achieve. The vision statement should not need revising often; it is the foundation of the company and is based on the company’s core beliefs. These core beliefs or values are those that remain constant—regardless of business climate, profit level, or sales cycle.
 
@@ -32,7 +30,7 @@ A company vision seeks to outline where the company is headed and what values ar
 
 Many organizations choose to specifically outline or list their core values as part of their vision statement. When taking this route, remember the list should be short—typically no more than about 5 items. These values should not be dependent on current profits, current trends, or current economic circumstances. They’re more constant than that and represent the deep-seated core values that remain at the heart of the organization.Because it tells the organizational purpose and values, the vision statement often influences the company culture and expectations, thereby giving direction for employees. It should be very short and easy to communicate.
 
-**Mission**
+### Mission
 
 Like the vision, the mission also tells everyone the organization’s purpose—what does the organization exist to do? What are the objectives? It goes beyond the vision, however, by making a clearer delineation of company goals and how the vision will be accomplished.\
 In other words, the mission statement is a way to express the vision in practical terms. It should be concrete and include goal-oriented language. It should include measurable objectives. Every person within the organization can evaluate whether his or her own activities will serve to help the company achieve its mission.
@@ -43,7 +41,7 @@ A mission statement is usually disseminated internally. It is used by employees,
 
 ![](/images/Migration.png)
 
-**Strategy**
+### Strategy
 
 Creating a company strategy is the final step in this process. Defining the vision and mission are critical before starting on strategic elements. After all, what is the strategy trying to achieve if not the company mission? And what is the mission if not an embodiment of the vision?
 
