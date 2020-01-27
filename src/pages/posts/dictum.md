@@ -1,6 +1,6 @@
 ---
 title: Blockchain
-home_style: style6
+home_style: style5
 home_img: /images/pic06.jpg
 excerpt: >-
   A blockchain is a public ledger of information collected through a network
