@@ -17,17 +17,17 @@ The Jamstack is not about specific technologies. It’s a new way of building we
 \
 Pre-rendered sites can be enhanced with JavaScript and the growing capabilities of browsers and services available via APIs.
 
-# When is your site *not* built with the Jamstack?
+### When is your site *not* built with the Jamstack?
 
 Any project that relies on a tight coupling between client and server is not built with the Jamstack. This would include:
 
-> * ### A site built with a server-side CMS like WordPress, Drupal, Joomla, or Squarespace.
-> * ### A monolithic server-run web app that relies on Ruby, Node, or another backend language.
-> * ### A single page app that uses isomorphic rendering to build views on the server at runtime.
+* ***A site built with a server-side CMS like WordPress, Drupal, Joomla, or Squarespace.***
+* ***A monolithic server-run web app that relies on Ruby, Node, or another backend language.***
+* ***A single page app that uses isomorphic rendering to build views on the server at runtime.***
 
 ![](/images/netlify workflow.png)
 
-# Why the Jamstack?
+### *Why the Jamstack?*
 
 ### Better Performance
 
