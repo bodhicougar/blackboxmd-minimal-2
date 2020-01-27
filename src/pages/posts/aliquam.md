@@ -1,8 +1,18 @@
 ---
 title: Google Cloud Platform Architecture
-home_style: style4
-home_img: /images/gcp-architecture-example.png
-excerpt: Sed nisl arcu euismod sit amet nisi lorem etiam dolor veroeros et feugiat.
+home_style: style3
+home_img: /images/google_cloud_platform.png
+excerpt: >-
+  Google has been one of the leading software and technology developer in the
+  world. Every year Google comes up with different innovations and advancement
+  in the technological field which is brilliant and helps the people all over
+  the world.
+
+
+  In the recent years, Google Cloud Platform is one of such innovations that
+  have seen an increase in its usage because more and more people are adopting
+  Cloud. Since there has been a great demand in the computing needs, a number of
+  Google cloud services have been launched for global customers.
 date: '2017-04-08'
 img_src: /images/cloud_computing-google_cloud_platform_services.jpg
 menus:
@@ -14,8 +24,8 @@ template: page
 ---
 ### What Google Cloud Platform offers
 
-Donec eget ex magna. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fergiat. Pellentesque in mi eu massa lacinia malesuada et a elit. Donec urna ex, lacinia in purus ac, pretium pulvinar mauris. Curabitur sapien risus, commodo eget turpis at, elementum convallis elit. Pellentesque enim turpis, hendrerit tristique.
+Google cloud platform is a medium with the help of which people can easily access the cloud systems and other computing services which are developed by Google. The platform includes a wide range of services that can be used in different sectors of cloud computing, such as storage and application development. Anyone can access the Google cloud platform and use it according to their needs.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis dapibus rutrum facilisis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Etiam tristique libero eu nibh porttitor fermentum. Nullam venenatis erat id vehicula viverra. Nunc ultrices eros ut ultricies condimentum. Mauris risus lacus, blandit sit amet venenatis non, bibendum vitae dolor. Nunc lorem mauris, fringilla in aliquam at, euismod in lectus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. In non lorem sit amet elit placerat maximus. Pellentesque aliquam maximus risus, vel venenatis mauris vehicula hendrerit.
+The Google Cloud Platform, first established on October 6, 2011, has a market share of 13%, giving stiff competition to Amazon AWS cloud. It has turned out to be one of the best and most successful cloud computing services.
 
-Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fersapien risus, commodo eget turpis at, elementum convallis elit. Pellentesque enim turpis, hendrerit tristique lorem ipsum dolor.
+Apart from the different management tools which are available upon Google Cloud Platform, the company has also included a lot of cloud functionalities and features like cloud storage, data analytics, developer options, and advanced machine learning. The wide range of optimization and other advantages is what makes the Google Cloud Platform so popular.
