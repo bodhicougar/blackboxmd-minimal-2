@@ -5,7 +5,7 @@ home_img: /images/pic06.jpg
 excerpt: >-
   A blockchain is a public ledger of information collected through a network
   that sits on top of the internet.
-date: '2017-04-02'
+date: 2020-01-26T23:00:00.000Z
 img_src: /images/the-blockchain-impacting-industries.jpg
 template: page
 ---
