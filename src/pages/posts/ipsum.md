@@ -1,5 +1,5 @@
 ---
-title: Responsive
+title: Responsive Web Design
 home_style: style7
 home_img: /images/pic12.jpg
 excerpt: >-
