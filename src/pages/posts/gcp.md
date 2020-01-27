@@ -5,7 +5,7 @@ home_img: /images/pic04.jpg
 excerpt: >-
   Google has been one of the leading software and technology developer in the
   world.
-date: 2020-01-27T05:29:27.379Z
+date: 2020-01-25T05:29:27.379Z
 img_src: /images/cloud_computing-google_cloud_platform_services.jpg
 template: page
 ---
