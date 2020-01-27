@@ -1,4 +1,4 @@
 # These rules will change if you change your site’s custom domains or HTTPS settings
 
 # Redirect default Netlify subdomain to primary domain
-https://blackboxmd-minimal-2.netlify.com/* https://www.blackboxmd.fyi/:splat 301!
+https://blackboxmd-minimal-2.netlify.com/* https://www.blackboxmd.work/:splat 301!
