@@ -1,5 +1,5 @@
 enabled: true
-title: 'Follow us: Social Media'
+title: Follow us
 follow_section:
   - icon: fa-linkedin
     link_url: 'https://www.linkedin.com/in/blackboxmd/?locale=en_US'
