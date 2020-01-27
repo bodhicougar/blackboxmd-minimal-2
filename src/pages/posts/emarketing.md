@@ -1,6 +1,6 @@
 ---
-title: eMarketing
-home_style: style5
+title: e-Marketing
+home_style: style1
 home_img: /images/pic14.jpg
 excerpt: >-
   Social media marketing is the use of social media platforms to connect with
