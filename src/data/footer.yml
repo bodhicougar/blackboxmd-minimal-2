@@ -3,3 +3,12 @@ links:
   - new_window: true
     text: Powered by blackboxmd
     url: 'https://www.bbmediadesign.net/'
+  - new_window: true
+    text: Legalese
+    url: 'https://legal-terms.jimdofree.com/'
+  - new_window: true
+    text: GDPR
+    url: 'https://legal-terms.jimdofree.com/gdpr/'
+  - new_window: true
+    text: NO cookies
+    url: 'https://legal-terms.jimdofree.com/cookies-policy/'
