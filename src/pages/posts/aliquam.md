@@ -1,7 +1,7 @@
 ---
 title: Google Cloud Platform Architecture
 home_style: style3
-home_img: /images/google_cloud_platform.png
+home_img: /images/pic04.jpg
 excerpt: >-
   Google has been one of the leading software and technology developer in the
   world.
