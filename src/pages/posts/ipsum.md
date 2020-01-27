@@ -1,15 +1,29 @@
 ---
-title: Ipsum
-home_style: style2
-home_img: images/pic07.jpg
-excerpt: Sed nisl arcu euismod sit amet nisi lorem etiam dolor veroeros et feugiat.
+title: Responsive Web Design
+home_style: style7
+home_img: /images/pic12.jpg
+excerpt: >-
+  *Responsive Web design* is the approach that suggests that design and
+  development should respond to the user's behavior and environment based on
+  screen size, platform and orientation.
 date: '2017-04-06'
-img_src: images/pic13.jpg
+img_src: /images/responsive-webdesign-beispiel.png
 template: page
 ---
+### Reponsive Webdesign
 
-Donec eget ex magna. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fergiat. Pellentesque in mi eu massa lacinia malesuada et a elit. Donec urna ex, lacinia in purus ac, pretium pulvinar mauris. Curabitur sapien risus, commodo eget turpis at, elementum convallis elit. Pellentesque enim turpis, hendrerit tristique.
+Responsive Web design is the approach that suggests that design and development should respond to the user’s behavior and environment based on screen size, platform and orientation.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis dapibus rutrum facilisis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Etiam tristique libero eu nibh porttitor fermentum. Nullam venenatis erat id vehicula viverra. Nunc ultrices eros ut ultricies condimentum. Mauris risus lacus, blandit sit amet venenatis non, bibendum vitae dolor. Nunc lorem mauris, fringilla in aliquam at, euismod in lectus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. In non lorem sit amet elit placerat maximus. Pellentesque aliquam maximus risus, vel venenatis mauris vehicula hendrerit.
+How can websites possibly keep up with the millions of screens out there? ***Responsive web design*.**
 
-Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fersapien risus, commodo eget turpis at, elementum convallis elit. Pellentesque enim turpis, hendrerit tristique lorem ipsum dolor.
+With responsive website design, your website (and its pages) can adapt and deliver the best experience to users, whether they’re on their desktop, laptop, tablet, or smartphone. For that to happen, though, your website needs a responsive design.
+
+What is responsive web design, though, and how does it work?
+
+### What is responsive web design?
+
+Responsive web design describes a web design approach that allows websites and pages to render (or display) on all devices and screen sizes by automatically adapting to the screen, whether it’s a desktop, laptop, tablet, or smartphone.
+
+### How does responsive web design work?
+
+Responsive web design works through Cascading Style Sheets (CSS), using various settings to serve different style properties depending on the screen size, orientation, resolution, color capability, and other characteristics of the user’s device. A few examples of CSS properties related to responsive web design include the viewport and media queries.
