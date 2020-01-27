@@ -5,7 +5,7 @@ home_img: /images/pic10.jpg
 excerpt: >-
   A cloud-based project management software coordinates the planning,
   collaborating, monitoring, and delivering of a project.
-date: 2020-01-26T23:00:00.000Z
+date: 2020-01-25T23:00:00.000Z
 img_src: images/pic13.jpg
 template: page
 ---
