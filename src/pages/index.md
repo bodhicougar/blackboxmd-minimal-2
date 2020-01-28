@@ -14,7 +14,7 @@ template: home
 
 Cloud computing architecture refers to the components and subcomponents required for cloud computing. These components typically consist of a front end platform, back end platforms, a cloud-based delivery, and a network. Combined, these components make up cloud computing architecture. Cloud solutions design is based on architectural procedures and methods that have been developed over the last 20 or so years.
 
-![Google Cloud Platform Architecture Example](/images/SME-Google-Marketplace.webp "GCP Example")
+![Google Cloud Platform Architecture Example](/images/SME-Google-Marketplace.png "GCP Example")
 
 ### What does a Cloud Architect do?
 
