@@ -1,12 +1,12 @@
 ---
 title: Getting organized in the cloud
 home_style: style4
-home_img: /images/pic10.webp
+home_img: /images/pic10.jpg
 excerpt: >-
   A cloud-based project management software coordinates the planning,
   collaborating, monitoring, and delivering of a project.
 date: 2020-01-25T23:00:00.000Z
-img_src: /images/pic04.webp
+img_src: /images/pic04.jpg
 template: page
 ---
 ### **What is cloud-based project management?**
