@@ -1,6 +1,6 @@
 ---
 title: 'Second phase - JAMstack, Markdown'
-img_src: /images/Netlify_gross.webp
+img_src: /images/Netlify_gross.png
 menus:
   main:
     identifier: phase_two
@@ -25,7 +25,7 @@ Any project that relies on a tight coupling between client and server is not bui
 * ***A monolithic server-run web app that relies on Ruby, Node, or another backend language.***
 * ***A single page app that uses isomorphic rendering to build views on the server at runtime.***
 
-![](/images/netlify workflow.webp)
+![How does the JAMstack work?](/images/netlify workflow.png "Workflow of the JAMstack")
 
 ### *Why the Jamstack?*
 
