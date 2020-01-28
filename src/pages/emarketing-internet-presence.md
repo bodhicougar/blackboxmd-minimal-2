@@ -10,7 +10,7 @@ template: page
 ---
 ## What is eMarketing?
 
-E-Marketing (Electronic Marketing) are also known as Internet Marketing, Web Marketing, Digital Marketing, or Online Marketing, we use the term eMarketing. E-marketing is the process of marketing a product or service using the Internet. Emarkerting not only includes marketing on the Internet, but also includes marketing done via e-mail and Social Media channels. It uses a range of technologies to help connect businesses to their customers.
+E-Marketing (Electronic Marketing) are also known as Internet Marketing, Web Marketing, Digital Marketing, or Online Marketing, *we use the term eMarketing*. E-marketing is the process of marketing a product or service using the Internet. E-Marketing not only includes marketing on the Internet, but also includes marketing done via e-mail and Social Media channels. It uses a range of technologies to help connect businesses to their customers.
 
 ### How we do it
 
