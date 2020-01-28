@@ -1,7 +1,7 @@
 ---
 title: SEO
 home_style: style2
-home_img: /images/pic09.jpg
+home_img: /images/seo-zukunft.png
 excerpt: >-
   *Search Engine Optimization =* SEO is the practice of optimizing content to be
   discovered through a search engine's organic search results.
