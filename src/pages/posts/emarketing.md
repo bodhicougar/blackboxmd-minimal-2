@@ -1,12 +1,12 @@
 ---
 title: e-Marketing
 home_style: style1
-home_img: /images/pic14.jpg
+home_img: /images/social media marketing.png
 excerpt: >-
   Social media marketing is the use of social media platforms to connect with
   your audience to build your brand, increase sales, and drive website traffic.
 date: 2020-01-27T05:10:51.103Z
-img_src: /images/social media marketing.png
+img_src: /images/Social-Media-Marketing-Tips.jpg
 template: page
 ---
 ### What is Social Media Marketing?
