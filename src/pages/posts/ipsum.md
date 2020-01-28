@@ -6,7 +6,7 @@ excerpt: >-
   *Responsive Web design* is the approach that suggests that design and
   development should respond to the user's behavior and environment based on
   screen size, platform and orientation.
-date: '2017-04-06'
+date: 2020-01-27T23:00:00.000Z
 img_src: /images/Responsive Webdesign.jpeg
 template: page
 ---
