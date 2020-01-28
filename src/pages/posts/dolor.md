@@ -1,12 +1,12 @@
 ---
 title: Getting organized in the cloud
 home_style: style4
-home_img: /images/pic10.jpg
+home_img: /images/pic10.webp
 excerpt: >-
   A cloud-based project management software coordinates the planning,
   collaborating, monitoring, and delivering of a project.
 date: 2020-01-25T23:00:00.000Z
-img_src: images/pic13.jpg
+img_src: /images/pic04.webp
 template: page
 ---
 ### **What is cloud-based project management?**
@@ -19,7 +19,7 @@ Cloud-based solutions have been a dominant trend in the business industry for th
 
 Speaking of which—Here are the benefits of using project management software for your business.
 
-### Benefits of using cloud-based project management software for your business
+### *Benefits of using cloud-based project management software for your business*
 
 ### 1. Easy access
 
