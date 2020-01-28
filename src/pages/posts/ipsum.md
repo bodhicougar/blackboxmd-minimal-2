@@ -1,7 +1,7 @@
 ---
 title: Responsive Web Design
 home_style: style7
-home_img: /images/pic12.webp
+home_img: /images/pic12.jpg
 excerpt: >-
   *Responsive Web design* is the approach that suggests that design and
   development should respond to the user's behavior and environment based on
