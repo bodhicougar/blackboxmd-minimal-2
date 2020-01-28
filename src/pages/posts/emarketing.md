@@ -1,12 +1,12 @@
 ---
 title: e-Marketing
 home_style: style1
-home_img: /images/pic14.webp
+home_img: /images/pic14.jpg
 excerpt: >-
   Social media marketing is the use of social media platforms to connect with
   your audience to build your brand, increase sales, and drive website traffic.
 date: 2020-01-27T05:10:51.103Z
-img_src: /images/social media marketing.webp
+img_src: /images/social media marketing.png
 template: page
 ---
 ### What is Social Media Marketing?
@@ -23,7 +23,7 @@ Social media marketing first started with publishing. Businesses were sharing th
 
 Nowadays, businesses use social media in a myriad of different ways. For example, a business that is concerned about what people are saying about its brand would monitor social media conversations and response to relevant mentions (social media listening and engagement). 
 
-![Social Media Marketing](/images/Bildschirmfoto vom 2020-01-27 06-18-23.webp "The Five Core Pillars of Social Media Marketing")
+![Social Media Marketing](/images/Bildschirmfoto vom 2020-01-27 06-18-23.png "The Five Core Pillars of Social Media Marketing")
 
 A business that wants to understand how it’s performing on social media would analyze its reach, engagement, and sales on social media with an analytics tool (social media analytics). A business that wants to reach a specific set of audience at scale would run highly-targeted social media ads (social media advertising).
 
