@@ -1,7 +1,7 @@
 ---
 title: Architecting the Cloud with GCP
 home_style: style3
-home_img: /images/pic13.jpg
+home_img: /images/gcp-architecture-example.png
 excerpt: >-
   Google has been one of the leading software and technology developer in the
   world.
