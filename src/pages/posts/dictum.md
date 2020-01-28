@@ -1,12 +1,12 @@
 ---
 title: Blockchain
 home_style: style5
-home_img: /images/pic06.webp
+home_img: /images/pic06.jpg
 excerpt: >-
   A blockchain is a public ledger of information collected through a network
   that sits on top of the internet.
 date: 2020-01-23T23:00:00.000Z
-img_src: /images/the-blockchain-impacting-industries.webp
+img_src: /images/the-blockchain-impacting-industries.jpg
 template: page
 ---
 ### What is Blockchain?
