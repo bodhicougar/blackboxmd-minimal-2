@@ -15,12 +15,12 @@ E-Marketing (Electronic Marketing) are also known as Internet Marketing, Web Mar
 ### How we do it
 
 * Select Social Media channels first & set them up accordingly;
-* [Setting up cloud-based project management](/dolor/)
+* [Setting up cloud-based project management](https://www.blackboxmd.work/posts/dolor/)
 * Incorporate all Social Media channels & links to existing sites, tools, chats, etc.;
 * Setting up a schedule for publishing;
 * Provide content on a regular basis;
 * Setting up Google Analytics & Search Console;
 * Setting up Mailchimp if needed;
-* SEO 101: keywords, descriptions, cross linking, etc.;
+* [SEO 101: keywords, descriptions, cross linking, etc.;](https://www.blackboxmd.work/posts/lorem/)
 * Checking SEO on a regular basis with Seobility;
 * AND: the secret magic sauce we provide for you!
