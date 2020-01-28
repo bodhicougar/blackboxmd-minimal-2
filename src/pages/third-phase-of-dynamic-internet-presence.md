@@ -1,6 +1,6 @@
 ---
 title: Third phase - Content Infrastructure
-img_src: /images/Contentful Gatsby Netlify.jpeg
+img_src: /images/Contentful_trio.png
 menus:
   main:
     identifier: phase_three
