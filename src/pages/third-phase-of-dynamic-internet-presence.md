@@ -20,7 +20,7 @@ The modern website doesn’t just inform. It engages, updates, converses and sur
 
 As an example, web visitors that visit the same URL might see different content in a dynamic site if they are one different devices, different countries, different times of day or even different networks. A web page generated from a dynamic website might have server side code that assembles content from different areas of a database, outside sources, page templates and other elements that are all in different areas of the server. In some dynamic sites, you might even see different elements or contents just by reloading the same web page twice.
 
-![Gatsby, Contentful and Netlify](/images/jam-stack-works.png "A dynamic trio")
+![Gatsby, Contentful and Netlify](/images/jam-stack-works.webp "A dynamic trio")
 
 * Built from the ground up for modern content distribution Robust, reliable access; no matter the place, platform, or device;
 * Works great with your development stack and platforms like Netlify
@@ -32,5 +32,4 @@ As an example, web visitors that visit the same URL might see different content 
 
 ![Contentful](/images/Contentful_gross.jpeg "Static site generators + content infrastructure")
 
-Traditionally, engineering organizations built or rebuilt their websites as one massive project with a set budget, timeline and launch. Post-launch, they might update website content incrementally, but usually little investment is made in the site as a whole until the next major “site refresh.”
-For the company, this means another costly and resource-intensive project that usually happens every several years. In the meantime, the website’s users, as well as the market and business, all move forward, leaving the website to stagnate.
+Traditionally, engineering organizations built or rebuilt their websites as one massive project with a set budget, timeline and launch. Post-launch, they might update website content incrementally, but usually little investment is made in the site as a whole until the next major “site refresh.” For the company, this means another costly and resource-intensive project that usually happens every several years. In the meantime, the website’s users, as well as the market and business, all move forward, leaving the website to stagnate.
