@@ -1,6 +1,6 @@
 ---
 title: First phase of a digital business card = web site
-img_src: /images/internet-static_web_page.jpg
+img_src: /images/internet-static_web_page.webp
 menus:
   main:
     identifier: phase_one
@@ -12,7 +12,7 @@ template: page
 
 Static websites serve the same content to every visitor from a fixed file that is coded in HTML. In the early days of the Internet this is how the first web pages were built. For each individual page of a static website, there is a unique HTML file on a web server with all the content and styles etc, for that complete page. When a website visitor types in a URL or visits a static page on a website, the page that loads will be the exact same for all users.
 
-![Static versus Blog](/images/blogvsstaticsite.jpg "Static Website - Blog")
+![Static versus Blog](/images/blogvsstaticsite.webp "Static Website - Blog")
 
 Static websites typically a more straightforward collection of files (or a collection of files and folders in a directory structure) that are managed by a web master or programmer that is familiar with HTML or some code. When updates need to be made or new pages added, it needs to be done manually by someone who is familiar with code and can code in HTML.
 
@@ -20,7 +20,7 @@ For example, a simple static website with a Home Page and a Contact page will co
 
 Static websites don’t have a database or require much server side thinking or processing before they deliver or generate a page to the user. They are typically more simple and efficient ways to create and server simple web pages. This site had a good click through illustration on dynamic and static websites (although the words run together in later slides)
 
-![Difference](/images/Bildschirmfoto vom 2020-01-25 23-29-13.png "Difference Static - Dynamic")
+![Difference](/images/Bildschirmfoto vom 2020-01-25 23-29-13.webp "Difference Static - Dynamic")
 
 \
 As loading speed and security have become more important, static pages have started to re-gain some popularity – particularly with smaller sites that don’t change very often.
@@ -31,7 +31,7 @@ Dynamic websites are capable of serving different content to web visitors, even 
 
 As an example, web visitors that visit the same URL might see different content in a dynamic site if they are one different devices, different countries, different times of day or even different networks. A web page generated from a dynamic website might have server side code that assembles content from different areas of a database, outside sources, page templates and other elements that are all in different areas of the server. In some dynamic sites, you might even see different elements or contents just by reloading the same web page twice.
 
-![Dynamic websites](/images/Dynamic websites.png "What is involved in a dynamic website")
+![Dynamic websites](/images/Dynamic websites.webp "What is involved in a dynamic website")
 
 Most dynamic sites use a Content Management System (CMS) that allows internal users to make updates or publish changes. Most CMS’s are accessible through a web based login that allows website owners or their staff to manage the site using a more easy to use visual interface. When updates or changes are saved they can be published immediately. Dynamic websites that use a CMS make it much easier to control larger websites.
 
@@ -70,7 +70,7 @@ There’s not a right or wrong answer here and it’s kind of like asking if red
 * Can’t display dynamic content to users
 * Less engaging then interactive sites
 
-![Content Management System](/images/dynamicweb.png "CMS makes sense")
+![Content Management System](/images/dynamicweb.webp "CMS makes sense")
 
 ### SHOULD YOU BUILD A STATIC OR DYNAMIC SITE?
 
