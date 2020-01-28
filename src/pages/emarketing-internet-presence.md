@@ -24,3 +24,5 @@ E-Marketing (Electronic Marketing) are also known as Internet Marketing, Web Mar
 * [SEO 101: keywords, descriptions, cross linking, etc.;](https://www.blackboxmd.work/posts/lorem/)
 * Checking SEO on a regular basis with Seobility;
 * AND: the secret magic sauce we provide for you!
+
+![What comprises Social Media Marketing](/images/Social-Media-Marketing-Tips.jpg "Social Media Marketing")
