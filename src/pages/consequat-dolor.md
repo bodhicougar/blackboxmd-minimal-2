@@ -20,7 +20,7 @@ template: page
 * MVP
 * Site acceptance test
 
-### Soft facts: Need to know basis.
+### Soft facts: Need to know basis
 
 ### Vision
 
