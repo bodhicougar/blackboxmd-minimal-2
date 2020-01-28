@@ -1,12 +1,12 @@
 ---
 title: SEO
 home_style: style2
-home_img: /images/pic09.webp
+home_img: /images/pic09.jpg
 excerpt: >-
   *Search Engine Optimization =* SEO is the practice of optimizing content to be
   discovered through a search engine's organic search results.
 date: 2020-01-26T23:00:00.000Z
-img_src: /images/SEO.webp
+img_src: /images/SEO.jpg
 template: page
 ---
 ### How SEO works
