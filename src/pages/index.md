@@ -16,4 +16,6 @@ Cloud computing architecture refers to the components and subcomponents required
 
 ![Google Cloud Platform Architecture Example](/images/SME-Google-Marketplace.webp "GCP Example")
 
+### What does a Cloud Architect do?
+
 A Cloud Architect is responsible for converting the technical requirements of a project into the architecture and design that will guide the final product. Often, Cloud Architects are also responsible for bridging the gaps between complex business problems and solutions in the cloud. Other members of a technology team, including DevOps engineers and developers, work with the Cloud Architect to ensure that the right technology or technologies are being built.
