@@ -1,6 +1,6 @@
 ---
 title: Responsive Web Design
-home_style: style7
+home_style: style6
 home_img: /images/Responsive Webdesign.jpeg
 excerpt: >-
   *Responsive Web design* is the approach that suggests that design and
