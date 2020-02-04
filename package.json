@@ -19,6 +19,8 @@
     "gatsby-plugin-analytics": "^0.2.0",
     "gatsby-plugin-google-analytics": "^2.1.34",
     "gatsby-plugin-manifest": "^2.2.39",
+    "gatsby-plugin-netlify": "^2.1.32",
+    "gatsby-plugin-offline": "^3.0.34",
     "gatsby-plugin-preload-fonts": "^1.0.25",
     "gatsby-plugin-react-helmet": "^3.0.0",
     "gatsby-plugin-sharp": "^2.4.3",

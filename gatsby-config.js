@@ -7,6 +7,7 @@ module.exports = {
     `gatsby-plugin-sharp`,
     `gatsby-plugin-preload-fonts`,
     `gatsby-transformer-sharp`,
+    `gatsby-plugin-netlify`,
     {
       resolve: `gatsby-source-filesystem`,
       options: {
@@ -57,6 +58,7 @@ module.exports = {
         crossOrigin: `use-credentials`
       }
     },
+
     {
       resolve: `gatsby-transformer-remark`,
       options: {
@@ -98,8 +100,9 @@ module.exports = {
         // Any additional optional fields
         sampleRate: 5,
         siteSpeedSampleRate: 10,
-        cookieDomain: 'blackbxmd.work'
+        cookieDomain: 'blackboxmd.work'
       }
-    }
+    },
+    'gatsby-plugin-offline'
   ]
 };
