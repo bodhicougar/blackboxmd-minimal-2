@@ -32,3 +32,4 @@ exports.onRouteUpdate = () => {
 //     window.location.reload();
 //   }
 // };
+// import 'lazysizes';
