@@ -103,6 +103,12 @@ module.exports = {
         cookieDomain: 'blackboxmd.work'
       }
     },
+    {
+      resolve: 'gatsby-plugin-html-attributes',
+      options: {
+        lang: 'en'
+      }
+    },
     'gatsby-plugin-offline'
   ]
 };
