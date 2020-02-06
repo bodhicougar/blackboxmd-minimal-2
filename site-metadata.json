@@ -1,4 +1,8 @@
 {
   "title": "BlackBoxMediaDesign",
-  "none": ""
+  "titleTemplate": "%s · Cloud Solution Architect",
+  "description": "Cloud Solution Architect for the Social Media Era: organizing entities strategically.",
+  "url": "https://www.blackboxmd.work",
+  "image": "/images/BBMD_Logo.jpg",
+  "twitterUsername": "@BBMediaDesign"
 }
