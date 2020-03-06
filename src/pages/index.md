@@ -1,7 +1,7 @@
 ---
 title: Home
 header: >-
-  Cloud Solution Architect for the Social Media Era: organizing entities
+  Architecting Solutions for the Social Media Era: organizing entities
   strategically.
 menus:
   main:
