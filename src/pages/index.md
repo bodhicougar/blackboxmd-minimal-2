@@ -1,8 +1,8 @@
 ---
 title: Home
-header: >-
-  Architecting Solutions for the Social Media Era: coaching entities
-  strategically.
+header: |-
+  Architecting Solutions for the Social Media Era:
+  coaching entities strategically.
 menus:
   main:
     identifier: home_start
