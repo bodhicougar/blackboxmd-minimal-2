@@ -1,7 +1,7 @@
 ---
 title: Home
 header: >-
-  Architecting Solutions for the Social Media Era: organizing entities
+  Architecting Solutions for the Social Media Era: coaching entities
   strategically.
 menus:
   main:
