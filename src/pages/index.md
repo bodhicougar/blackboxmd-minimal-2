@@ -1,8 +1,8 @@
 ---
 title: Home
-header: >-
-  Cloud Solution Architect for the Social Media Era: organizing entities
-  strategically.
+header: |-
+  Architecting Solutions for the Social Media Era:
+  coaching entities strategically.
 menus:
   main:
     identifier: home_start
