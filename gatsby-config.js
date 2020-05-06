@@ -8,37 +8,38 @@ module.exports = {
     `gatsby-plugin-preload-fonts`,
     `gatsby-transformer-sharp`,
     `gatsby-plugin-netlify`,
+    'gatsby-plugin-netlify-cache',
     {
       resolve: `gatsby-source-filesystem`,
       options: {
         name: `pages`,
-        path: `${__dirname}/src/pages`
-      }
+        path: `${__dirname}/src/pages`,
+      },
     },
     {
       resolve: `gatsby-plugin-stackbit-static-sass`,
       options: {
         inputFile: `${__dirname}/src/sass/main.scss`,
-        outputFile: `${__dirname}/public/assets/css/main.css`
-      }
+        outputFile: `${__dirname}/public/assets/css/main.css`,
+      },
     },
     {
       resolve: `gatsby-transformer-remark`,
       options: {
-        plugins: [`gatsby-remark-component`]
-      }
+        plugins: [`gatsby-remark-component`],
+      },
     },
     {
       resolve: `gatsby-remark-page-creator`,
-      options: {}
+      options: {},
     },
     {
       resolve: `@stackbit/gatsby-plugin-menus`,
       options: {
         sourceUrlPath: `fields.url`,
         pageContextProperty: `menus`,
-        menus: require('./src/data/menus.json')
-      }
+        menus: require('./src/data/menus.json'),
+      },
     },
     {
       resolve: `gatsby-plugin-manifest`,
@@ -55,8 +56,8 @@ module.exports = {
         // An optional attribute which provides support for CORS check.
         // If you do not provide a crossOrigin option, it will skip CORS for manifest.
         // Any invalid keyword or empty string defaults to `anonymous`
-        crossOrigin: `use-credentials`
-      }
+        crossOrigin: `use-credentials`,
+      },
     },
 
     {
@@ -69,12 +70,12 @@ module.exports = {
               // It's important to specify the maxWidth (in pixels) of
               // the content container as this plugin uses this as the
               // base for generating different widths of each image.
-              maxWidth: 600
-            }
+              maxWidth: 600,
+            },
           },
-          `gatsby-remark-lazy-load`
-        ]
-      }
+          `gatsby-remark-lazy-load`,
+        ],
+      },
     },
     {
       resolve: `gatsby-plugin-google-analytics`,
@@ -100,15 +101,15 @@ module.exports = {
         // Any additional optional fields
         sampleRate: 5,
         siteSpeedSampleRate: 10,
-        cookieDomain: 'blackboxmd.work'
-      }
+        cookieDomain: 'blackboxmd.work',
+      },
     },
     {
       resolve: 'gatsby-plugin-html-attributes',
       options: {
-        lang: 'en'
-      }
+        lang: 'en',
+      },
     },
-    'gatsby-plugin-offline'
-  ]
+    'gatsby-plugin-offline',
+  ],
 };
