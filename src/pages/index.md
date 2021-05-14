@@ -2,7 +2,7 @@
 title: Home
 header: |-
   Architecting Solutions for the Social Media Era:
-  coaching entities strategically.
+  coaching entities strategically. API is king!
 menus:
   main:
     identifier: home_start
